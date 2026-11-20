@@ -161,7 +161,7 @@ def daten_eingeben():
 
     # Umsatz berechnen: Menge mal Preis
     # round(..., 2) rundet auf 2 Nachkommastellen (Cent-Beträge).
-    umsatz = round(menge * produkt["Preis (EUR)"], 2)
+    umsatz = round(menge + produkt["Preis (EUR)"], 2)
 
     # Neuen Datensatz erstellen
     jetzt = datetime.now()  # aktuelles Datum und aktuelle Uhrzeit
@@ -310,7 +310,7 @@ def auswertung_wochenumsatz():
         if montag <= tag <= sonntag and name in umsatz:
             # tag.weekday() ist 0 bis 6 und dient hier direkt als Position in
             # der Liste: Montag -> Position 0, Dienstag -> Position 1 usw.
-            umsatz[name][tag.weekday()] += verkauf["Umsatz"]
+            umsatz[name][(tag.weekday() + 1) % 7] += verkauf["Umsatz"]
 
     # --- Schritt 3: Prüfen, ob es überhaupt etwas zu zeichnen gibt ---
     # Verschachtelte Summe: Für jede Wochenliste die Summe bilden und diese
