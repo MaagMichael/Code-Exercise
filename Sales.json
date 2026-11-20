@@ -1,0 +1,891 @@
+[
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "07:05",
+    "Produkt": "Croissant",
+    "Anzahl": 1,
+    "Umsatz": 1.6
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "07:39",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "07:45",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "07:57",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "08:08",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "09:06",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "09:09",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "09:32",
+    "Produkt": "Brezel",
+    "Anzahl": 1,
+    "Umsatz": 1
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "10:22",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "10:27",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "10:37",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "11:20",
+    "Produkt": "Croissant",
+    "Anzahl": 1,
+    "Umsatz": 1.6
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "11:30",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "12:01",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "12:30",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "13:05",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "13:37",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "14:35",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "15:27",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "15:57",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "16:16",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "16:33",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-16",
+    "Uhrzeit": "17:00",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "07:09",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "07:28",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "08:31",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "08:54",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "08:58",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "11:11",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "11:18",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "12:12",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "12:29",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "12:41",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "12:42",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "12:52",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "12:53",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "13:34",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "13:50",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "14:20",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "14:35",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "15:23",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "15:29",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "16:06",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "16:23",
+    "Produkt": "Croissant",
+    "Anzahl": 1,
+    "Umsatz": 1.6
+  },
+  {
+    "Datum": "2026-11-17",
+    "Uhrzeit": "16:41",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "07:06",
+    "Produkt": "Croissant",
+    "Anzahl": 5,
+    "Umsatz": 8
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "07:30",
+    "Produkt": "Croissant",
+    "Anzahl": 4,
+    "Umsatz": 6.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "07:33",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "08:11",
+    "Produkt": "Muffin",
+    "Anzahl": 4,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "08:20",
+    "Produkt": "Brezel",
+    "Anzahl": 6,
+    "Umsatz": 6
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "08:37",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "08:45",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "08:54",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "09:26",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "10:27",
+    "Produkt": "Muffin",
+    "Anzahl": 5,
+    "Umsatz": 10.5
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "11:29",
+    "Produkt": "Sandwich",
+    "Anzahl": 4,
+    "Umsatz": 16.8
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "11:43",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "11:49",
+    "Produkt": "Muffin",
+    "Anzahl": 5,
+    "Umsatz": 10.5
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:02",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:10",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:12",
+    "Produkt": "Croissant",
+    "Anzahl": 5,
+    "Umsatz": 8
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:13",
+    "Produkt": "Sandwich",
+    "Anzahl": 3,
+    "Umsatz": 12.6
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:24",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:29",
+    "Produkt": "Sandwich",
+    "Anzahl": 4,
+    "Umsatz": 16.8
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:48",
+    "Produkt": "Brezel",
+    "Anzahl": 6,
+    "Umsatz": 6
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "12:59",
+    "Produkt": "Brezel",
+    "Anzahl": 5,
+    "Umsatz": 5
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "13:08",
+    "Produkt": "Brezel",
+    "Anzahl": 6,
+    "Umsatz": 6
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "13:11",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "13:28",
+    "Produkt": "Croissant",
+    "Anzahl": 4,
+    "Umsatz": 6.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "13:59",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "13:59",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "14:33",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "14:58",
+    "Produkt": "Croissant",
+    "Anzahl": 4,
+    "Umsatz": 6.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "15:03",
+    "Produkt": "Croissant",
+    "Anzahl": 4,
+    "Umsatz": 6.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "15:24",
+    "Produkt": "Muffin",
+    "Anzahl": 4,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "15:41",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "16:42",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-18",
+    "Uhrzeit": "16:56",
+    "Produkt": "Brezel",
+    "Anzahl": 6,
+    "Umsatz": 6
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "07:01",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "07:43",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "07:50",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "08:00",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "08:05",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "08:39",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "09:48",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "10:00",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "11:20",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "11:33",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "12:17",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "12:36",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "12:42",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "13:11",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "13:26",
+    "Produkt": "Brezel",
+    "Anzahl": 2,
+    "Umsatz": 2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "13:36",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "13:48",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "14:54",
+    "Produkt": "Brezel",
+    "Anzahl": 2,
+    "Umsatz": 2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "15:57",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "16:10",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "16:10",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-19",
+    "Uhrzeit": "16:22",
+    "Produkt": "Brezel",
+    "Anzahl": 2,
+    "Umsatz": 2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "07:07",
+    "Produkt": "Croissant",
+    "Anzahl": 1,
+    "Umsatz": 1.6
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "07:34",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "07:37",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "07:45",
+    "Produkt": "Brezel",
+    "Anzahl": 4,
+    "Umsatz": 4
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "08:26",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "09:24",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "09:26",
+    "Produkt": "Croissant",
+    "Anzahl": 2,
+    "Umsatz": 3.2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "09:29",
+    "Produkt": "Brezel",
+    "Anzahl": 1,
+    "Umsatz": 1
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "10:52",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "11:20",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "12:01",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "12:07",
+    "Produkt": "Croissant",
+    "Anzahl": 1,
+    "Umsatz": 1.6
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "12:27",
+    "Produkt": "Brezel",
+    "Anzahl": 1,
+    "Umsatz": 1
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "12:38",
+    "Produkt": "Sandwich",
+    "Anzahl": 2,
+    "Umsatz": 8.4
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "13:11",
+    "Produkt": "Sandwich",
+    "Anzahl": 1,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "13:25",
+    "Produkt": "Muffin",
+    "Anzahl": 2,
+    "Umsatz": 4.2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "13:49",
+    "Produkt": "Croissant",
+    "Anzahl": 1,
+    "Umsatz": 1.6
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "13:52",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "13:55",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "14:14",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "14:21",
+    "Produkt": "Muffin",
+    "Anzahl": 3,
+    "Umsatz": 6.3
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "14:35",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "15:18",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "16:12",
+    "Produkt": "Croissant",
+    "Anzahl": 3,
+    "Umsatz": 4.8
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "16:20",
+    "Produkt": "Brezel",
+    "Anzahl": 2,
+    "Umsatz": 2
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "16:37",
+    "Produkt": "Muffin",
+    "Anzahl": 1,
+    "Umsatz": 2.1
+  },
+  {
+    "Datum": "2026-11-20",
+    "Uhrzeit": "17:00",
+    "Produkt": "Brezel",
+    "Anzahl": 3,
+    "Umsatz": 3
+  }
+]
