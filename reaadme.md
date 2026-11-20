@@ -116,7 +116,6 @@ Tippe eine Zahl ein und bestätige mit **Enter**:
 | Datei | Inhalt |
 |-------|--------|
 | `verkauf.py` | das Programm |
-| `verkauf_kommentiert.py` | dasselbe Programm mit ausführlichen Erklärungen für Einsteiger |
 | `Products.json` | Liste der Produkte mit Preisen |
 | `Sales.json` | gespeicherte Verkäufe (wird vom Programm gefüllt) |
 | `requirements.txt` | Liste der benötigten Bibliotheken (nur vorhanden, wenn du sie wie oben erzeugt hast) |
